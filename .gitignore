@@ -10,3 +10,6 @@ data/raw/.DS_Store
 *.zip
 presentables/Scores.xlsx
 requirements.txt
+*.png
+PrivatePackages/ZhongShan.py
+0_InitiateDirectory.ipynb
