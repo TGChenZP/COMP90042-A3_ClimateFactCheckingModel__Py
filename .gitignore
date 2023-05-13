@@ -3,3 +3,10 @@ data/curated/test_claims2.json
 Miniconda3-latest-MacOSX-arm64.sh
 *.dat
 *.pt
+*.pickle
+*.json
+notebooks/.DS_Store
+data/raw/.DS_Store
+*.zip
+presentables/Scores.xlsx
+requirements.txt
